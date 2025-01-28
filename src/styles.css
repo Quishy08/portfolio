@@ -12,6 +12,7 @@ body {
   overflow-x: hidden;
   padding: 0;
   width: 100%;
+  color : #000000;
 }
 
 div#main {
@@ -90,7 +91,7 @@ li {
 }
 
 li::marker {
-  color: #4e567e;
+  color: #002aff;
 }
 
 a {
